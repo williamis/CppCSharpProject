@@ -43,7 +43,7 @@ Yksinkertaisesti:
 [DllImport("Backend.dll")]
 private static extern int YourFunctionName();
 
-3. Suorita ohjelma
+### 3. Suorita ohjelma
 * Avaa MyProject.sln
 * Aseta C#-projekti käynnistetväksi
 * Suorita ja testaa.
